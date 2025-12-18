@@ -15,7 +15,7 @@ Features:
 
 
 
-Pin mapping (change if needed):
+Pin mapping :
 
 SDA -> D2, SCL -> D1 (I2C LCD)
 
@@ -458,5 +458,6 @@ if (h >= HUMIDITY_ALERT) {
 delay(200);
 
 }
+
 
 
