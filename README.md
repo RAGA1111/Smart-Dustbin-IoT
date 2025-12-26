@@ -3,4 +3,4 @@ A smart dustbin that uses ultrasonic sensors and voice commands to open automati
 
 1. Alerts user when dustbin is full.
 2. Alerts user when dustbin is wet for long period to avoid bad odour.
-3. Opens dustbin when user says "OPEN DUSTBIN".
+3. Opens dustbin when user says "OPEN DUSTBIN"...
