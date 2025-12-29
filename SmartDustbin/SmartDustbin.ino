@@ -49,6 +49,8 @@ Relay1 (fan) -> D8
 
 #include <NewPing.h>
 
+#include <MQ3TT.h>
+
 // ---------- CONFIG ----------
 
 #define WIFI_SSID "Raga"
@@ -458,6 +460,7 @@ if (h >= HUMIDITY_ALERT) {
 delay(200);
 
 }
+
 
 
 
