@@ -78,4 +78,4 @@ KIT – Kalaignar Karunanidhi Institute of Technology
 ---
 
 ## 📄 License
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**
