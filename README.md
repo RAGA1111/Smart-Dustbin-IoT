@@ -10,7 +10,7 @@ The dustbin automatically opens when the user gives a voice command and continuo
 
 ## 🎯 Features
 - Touch-free operation using voice commands  
-- Opens automatically when the user says **"OPEN DUSTBIN"**  
+- Opens automatically when the user say **"OPEN DUSTBIN"**  
 - Ultrasonic sensor monitors garbage fill level  
 - Alerts user when dustbin is nearly full  
 - Moisture sensor detects wet waste  
